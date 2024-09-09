@@ -1,6 +1,5 @@
 /TestTask.Api/obj
 /TestTask.Api/bin
-/TestTask.Api/Properties/launchSettings.json
 /TestTask.Api/Properties/PublishProfiles/*.pubxml
 /TestTask.Application/obj
 /TestTask.Application/bin
